@@ -34,6 +34,8 @@ public class DServlet extends HttpServlet {
 		else
 		{
 			out.println("try next time");
+			out.println("try next time");
+			
 		}		  
 	        
 	}
